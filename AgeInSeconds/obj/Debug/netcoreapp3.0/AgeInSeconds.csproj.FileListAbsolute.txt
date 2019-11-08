@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\Lesson10\AgeInSeconds\bin\Debug\netcoreapp3.0\AgeInSeconds.exe
+C:\Users\julia.voronetskaja\source\repos\Lesson10\AgeInSeconds\bin\Debug\netcoreapp3.0\AgeInSeconds.deps.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\AgeInSeconds\bin\Debug\netcoreapp3.0\AgeInSeconds.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\AgeInSeconds\bin\Debug\netcoreapp3.0\AgeInSeconds.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\AgeInSeconds\bin\Debug\netcoreapp3.0\AgeInSeconds.dll
+C:\Users\julia.voronetskaja\source\repos\Lesson10\AgeInSeconds\bin\Debug\netcoreapp3.0\AgeInSeconds.pdb
+C:\Users\julia.voronetskaja\source\repos\Lesson10\AgeInSeconds\obj\Debug\netcoreapp3.0\AgeInSeconds.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\Lesson10\AgeInSeconds\obj\Debug\netcoreapp3.0\AgeInSeconds.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\Lesson10\AgeInSeconds\obj\Debug\netcoreapp3.0\AgeInSeconds.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\Lesson10\AgeInSeconds\obj\Debug\netcoreapp3.0\AgeInSeconds.dll
+C:\Users\julia.voronetskaja\source\repos\Lesson10\AgeInSeconds\obj\Debug\netcoreapp3.0\AgeInSeconds.pdb

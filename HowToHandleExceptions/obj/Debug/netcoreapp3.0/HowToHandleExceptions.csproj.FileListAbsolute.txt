@@ -1,0 +1,10 @@
+C:\Users\julia.voronetskaja\source\repos\Lesson10\HowToHandleExceptions\bin\Debug\netcoreapp3.0\HowToHandleExceptions.exe
+C:\Users\julia.voronetskaja\source\repos\Lesson10\HowToHandleExceptions\bin\Debug\netcoreapp3.0\HowToHandleExceptions.deps.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\HowToHandleExceptions\bin\Debug\netcoreapp3.0\HowToHandleExceptions.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\HowToHandleExceptions\bin\Debug\netcoreapp3.0\HowToHandleExceptions.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\HowToHandleExceptions\bin\Debug\netcoreapp3.0\HowToHandleExceptions.dll
+C:\Users\julia.voronetskaja\source\repos\Lesson10\HowToHandleExceptions\bin\Debug\netcoreapp3.0\HowToHandleExceptions.pdb
+C:\Users\julia.voronetskaja\source\repos\Lesson10\HowToHandleExceptions\obj\Debug\netcoreapp3.0\HowToHandleExceptions.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\Lesson10\HowToHandleExceptions\obj\Debug\netcoreapp3.0\HowToHandleExceptions.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\Lesson10\HowToHandleExceptions\obj\Debug\netcoreapp3.0\HowToHandleExceptions.dll
+C:\Users\julia.voronetskaja\source\repos\Lesson10\HowToHandleExceptions\obj\Debug\netcoreapp3.0\HowToHandleExceptions.pdb

@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\Lesson10\ThrowRecurssion\bin\Debug\netcoreapp3.0\ThrowRecurssion.exe
+C:\Users\julia.voronetskaja\source\repos\Lesson10\ThrowRecurssion\bin\Debug\netcoreapp3.0\ThrowRecurssion.deps.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\ThrowRecurssion\bin\Debug\netcoreapp3.0\ThrowRecurssion.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\ThrowRecurssion\bin\Debug\netcoreapp3.0\ThrowRecurssion.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\ThrowRecurssion\bin\Debug\netcoreapp3.0\ThrowRecurssion.dll
+C:\Users\julia.voronetskaja\source\repos\Lesson10\ThrowRecurssion\bin\Debug\netcoreapp3.0\ThrowRecurssion.pdb
+C:\Users\julia.voronetskaja\source\repos\Lesson10\ThrowRecurssion\obj\Debug\netcoreapp3.0\ThrowRecurssion.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\Lesson10\ThrowRecurssion\obj\Debug\netcoreapp3.0\ThrowRecurssion.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\Lesson10\ThrowRecurssion\obj\Debug\netcoreapp3.0\ThrowRecurssion.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\Lesson10\ThrowRecurssion\obj\Debug\netcoreapp3.0\ThrowRecurssion.dll
+C:\Users\julia.voronetskaja\source\repos\Lesson10\ThrowRecurssion\obj\Debug\netcoreapp3.0\ThrowRecurssion.pdb

@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\Lesson10\TrowExceptions\bin\Debug\netcoreapp3.0\TrowExceptions.exe
+C:\Users\julia.voronetskaja\source\repos\Lesson10\TrowExceptions\bin\Debug\netcoreapp3.0\TrowExceptions.deps.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\TrowExceptions\bin\Debug\netcoreapp3.0\TrowExceptions.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\TrowExceptions\bin\Debug\netcoreapp3.0\TrowExceptions.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\TrowExceptions\bin\Debug\netcoreapp3.0\TrowExceptions.dll
+C:\Users\julia.voronetskaja\source\repos\Lesson10\TrowExceptions\bin\Debug\netcoreapp3.0\TrowExceptions.pdb
+C:\Users\julia.voronetskaja\source\repos\Lesson10\TrowExceptions\obj\Debug\netcoreapp3.0\TrowExceptions.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\Lesson10\TrowExceptions\obj\Debug\netcoreapp3.0\TrowExceptions.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\Lesson10\TrowExceptions\obj\Debug\netcoreapp3.0\TrowExceptions.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\Lesson10\TrowExceptions\obj\Debug\netcoreapp3.0\TrowExceptions.dll
+C:\Users\julia.voronetskaja\source\repos\Lesson10\TrowExceptions\obj\Debug\netcoreapp3.0\TrowExceptions.pdb

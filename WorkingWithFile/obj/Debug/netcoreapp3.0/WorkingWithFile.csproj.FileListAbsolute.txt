@@ -1,0 +1,10 @@
+C:\Users\julia.voronetskaja\source\repos\Lesson10\WorkingWithFile\bin\Debug\netcoreapp3.0\WorkingWithFile.exe
+C:\Users\julia.voronetskaja\source\repos\Lesson10\WorkingWithFile\bin\Debug\netcoreapp3.0\WorkingWithFile.deps.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\WorkingWithFile\bin\Debug\netcoreapp3.0\WorkingWithFile.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\WorkingWithFile\bin\Debug\netcoreapp3.0\WorkingWithFile.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\Lesson10\WorkingWithFile\bin\Debug\netcoreapp3.0\WorkingWithFile.dll
+C:\Users\julia.voronetskaja\source\repos\Lesson10\WorkingWithFile\bin\Debug\netcoreapp3.0\WorkingWithFile.pdb
+C:\Users\julia.voronetskaja\source\repos\Lesson10\WorkingWithFile\obj\Debug\netcoreapp3.0\WorkingWithFile.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\Lesson10\WorkingWithFile\obj\Debug\netcoreapp3.0\WorkingWithFile.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\Lesson10\WorkingWithFile\obj\Debug\netcoreapp3.0\WorkingWithFile.dll
+C:\Users\julia.voronetskaja\source\repos\Lesson10\WorkingWithFile\obj\Debug\netcoreapp3.0\WorkingWithFile.pdb
